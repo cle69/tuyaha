@@ -65,3 +65,8 @@ This clone contains several critical fixes. Check commits.
   - If they are not - don't open an issue. Ask [Tuya support](mailto:support@tuya.com) to support your device in their 
     `/homeassistant` API
 - Remove the updated script, so your credentials won't leak
+
+## Light temperature support by Xenomes
+
+There's a fork of this plugin with support for light temperature control (for devices which support it), you can check it out at:
+https://github.com/Xenomes/Domoticz-TUYA-Plugin
